@@ -1,0 +1,6 @@
+﻿CREATE TABLE Utisak (
+    ID int IDENTITY (1, 1) PRIMARY KEY NOT NULL,
+    Ime varchar(50) NOT NULL,
+    Email varchar(50) NOT NULL,
+    Komentar varchar(1000) NOT NULL
+);
