@@ -2,5 +2,10 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
-    Ovde napisati osnovne podatke o autoru veb aplikacije.
+    Аутор.
+    <br />
+    Pera Peric
+    mojmejl@nesto.com
+    ucenik ETS Zemun skole.
+    
 </asp:Content>
